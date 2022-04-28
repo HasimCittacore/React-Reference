@@ -1,0 +1,4 @@
+React Ref (another method of sending data from child to parent)
+ Takes reference from a react component.
+ Values that can be taken as refernce are state variables.
+ currentRef and useRef are the two methods used to take the reference of react component,but useRef as it is a hook used only in the functional Components.
